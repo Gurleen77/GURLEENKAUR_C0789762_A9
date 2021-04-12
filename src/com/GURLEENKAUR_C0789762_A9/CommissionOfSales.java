@@ -4,6 +4,7 @@ import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class CommissionOfSales {
+
     static double[] sales; //salesperson’s total monthly sales.
     static double[] advance; //amount of advanced pay the salesperson has drawn
     static double[] totalPayment; //amount of remaining commission or the amount to be reimburse by the salesperson
