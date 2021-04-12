@@ -10,6 +10,7 @@ public class CommissionOfSales {
     static double[] totalPayment; //amount of remaining commission or the amount to be reimburse by the salesperson
     static double commission=0; //amount of the commission
 
+
     public static void main(String[] args){
         DecimalFormat df=new DecimalFormat("0.00");
         Scanner sc = new Scanner (System.in);
